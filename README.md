@@ -174,3 +174,5 @@ Bannir définitivement le/les joueur(s).
 Sanctionner l'ensemble des joueurs étant attachés à cette activité suspecte.
 
 Supprimez définitivement les données attachées aux joueurs liés à l'activité suspecte.
+
+MERCI D'AVOIR LU LE REGLEMENT ET PASSER UN MANIFIQUE MOMENT SUR NEW LYDE RP
