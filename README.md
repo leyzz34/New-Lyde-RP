@@ -126,3 +126,51 @@ Pour reprendre une entreprise, il n'y a pas de dossier à faire, sauf pour ambul
 Les entreprises disponibles sont mise à la vente, disponible à tous, il faut donc les acheter avec de l'argent que vous aurez acquis en jeux, en farmant ou au fil du temps. 
 
 Ensuite, pour acheter une entreprise il faut se rendre au gouvernement (regarder sur votre map pour voir ou ça se trouve) un menu automatique sera disponible pour acheter l'entreprise de votre choix.
+📓
+Commandes du serveur
+Commandes de base
+/register (Refaire son personnage, uniquement pour les nouveaux joueurs)
+
+/stuck (Si un EMS ne vous voit pas)
+
+/report (Envoyer un message aux modérateurs, tutoriel ici)
+
+/warn (Voir mes avertissements)
+
+/me (Décrire ce que fait votre personnage)
+
+/quitorga (Permet de quitter votre gang/organisation)
+
+/quitjob (Permet de quitter votre métier)
+
+/drift (Activer le mode drift et SHIFT pour drifter)
+❔
+Comment acheter ?
+Pour acheter sur la boutique c'est très simple, vous devez vous connecter avec votre compte FiveM (Cfx) sur la boutique, si vous n'avez pas de compte FiveM vous devrez obligatoirement en créer un (c'est très rapide), une fois votre compte FiveM créé vous devez lier votre compte à FiveM, pour ce faire, lancez l'application FiveM, une popup devrait s'afficher et vous demander de lier votre compte.
+![image](https://github.com/user-attachments/assets/514f131b-01f0-4b1d-acb9-7852c67c338f)
+![image](https://github.com/user-attachments/assets/5b94744e-6b8a-4a51-9739-3f14bba8ee2f)
+Cliquez ensuite sur "Sign in with Cfx.re" et votre navigateur principal (Chrome, Firefox...) devrait s'ouvrir et vous demander de lier votre compte, cliquez ensuite sur le bouton "Authorize" et c'est tout bon!
+🛒
+Informations à savoir
+Interdiction
+Il est strictement interdit de partager ou échanger votre compte avec un autre joueur afin qu'il puisse jouer et profiter de votre personnage avec tout ce qui est bien acquis sur le serveur.
+
+Si un compte FiveM est lié à plusieurs joueurs, il sera considéré comme suspect.
+
+Inactivité
+Le joueur se doit d'être actif si celui-ci ne veut pas s'exposer à une perte de ses données. Les effacements de données de joueurs inactifs sont automatique et nous ne pouvons pas faire d'exception, aucun remboursement ne pourra être effectué en cas de perte.
+
+La suppression des données de joueurs inactifs s'effectue tous les 3 mois.
+
+Pour ne pas perdre les données de votre compte, vous devez donc vous connectez sur le serveur au moins une fois (même si vous ne restez qu'une minute) tous les 3 mois.
+
+Informations
+Lors de la détection d'une activité suspecte, New Lyde RP se réserve les droits suivants: 
+
+Refuser un remboursement.
+
+Bannir définitivement le/les joueur(s).
+
+Sanctionner l'ensemble des joueurs étant attachés à cette activité suspecte.
+
+Supprimez définitivement les données attachées aux joueurs liés à l'activité suspecte.
