@@ -70,3 +70,59 @@ Vous n'avez pas le droit de contester une banque ou une superette qui est en cou
 Vous ne devez surtout pas tirer avec vos armes en pleine ville sans raison sinon vous risquez de vous faire confisquer vos armes et de payer des amendes très cher.
 
 Si vous braquez un joueur, vous n'avez pas le droit de lui prendre la totalité de ses objets, vous pouvez récupérer au maximum 10% de ce qu'il possède (argent sale, pochons..) de même, si vous braquez une arme, vous n'êtes autorisé à braquer qu'une seule arme et non toutes les armes.
+🙋‍♂️
+Comment faire un ticket
+Dans certaines situation en jeu vous allez être amené à faire des tickets en jeu, que ce soit pour poser une question à laquelle vous n'avez pas la réponse ou dont la réponse est ambigüe, pour résoudre un désaccord sur une scène (sur le forme et non sur le fond, sur l'aspect roleplay de la scène par ex: power gaming, méta, etc.)
+
+Faire un ticket en jeu est assez courant, voici donc comment formuler votre ticket :![image](https://github.com/user-attachments/assets/0a0be23a-4cc1-4e75-bf32-ca98638178db)
+🔫
+Les zones de non droit
+Les événements "zone de non droit", c'est quoi ?
+
+Les zones de non-droit sont des zones où pratiquement tout est permis. La loi ne s'applique pas et les forces de l'ordre ne peuvent pas intervenir car beaucoup trop dangereux.
+
+En bref, ce sont des zones où les joueurs peuvent se défouler, se tuer entre eux sans raison, etc. Dans les zones de non droit si vous mourrez, vous réapparaitrait au bout de 10 secondes.
+🔥
+Les organisations illégales
+Tout savoir sur les organisations illégales.
+
+Les organisations illégales s'organisent en un groupe composé au maximum de 24 individus. Les organisations illégales ont pour objectif de faire fructifier leurs affaires par exemple;
+
+Fabrication de drogue
+
+Corruption de personnes influentes
+
+Revendication de circuits de drogues
+
+Prises d'otages
+
+Braquages
+
+Vente d'armes
+
+Les organisations illégales pour faire respecter leur autorité et leurs intérêts peuvent user de différents moyens par exemple :
+
+Discussions
+
+Echanges
+
+Corruption
+
+Espionnage d'autres organisations
+
+Menace
+
+Prise d'otage
+
+Stratégie
+
+Les organisations illégales doivent essayer de rester discret au maximum, une fois les autorités (agences, gouvernement, etc.) informés de votre existence vos affaires risque d'être en danger, c'est également pour cette raison que tirer ou prendre en otage des agents devrait être la dernière solution.
+☘️
+Les entreprises légales
+Comment reprendre une entreprise ?
+
+Pour reprendre une entreprise, il n'y a pas de dossier à faire, sauf pour ambulanciers et policiers.
+
+Les entreprises disponibles sont mise à la vente, disponible à tous, il faut donc les acheter avec de l'argent que vous aurez acquis en jeux, en farmant ou au fil du temps. 
+
+Ensuite, pour acheter une entreprise il faut se rendre au gouvernement (regarder sur votre map pour voir ou ça se trouve) un menu automatique sera disponible pour acheter l'entreprise de votre choix.
